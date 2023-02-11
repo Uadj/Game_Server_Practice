@@ -10,3 +10,9 @@ https://github.com/Uadj/Unity_client_for_server
 /upload로 리퀘스트 시 DB에 데이터 저장<br>
 
 ![image](https://user-images.githubusercontent.com/30551889/218258016-1bf6cc79-9393-4990-9dd7-ccdb0d36b92a.png)
+
+
+
+
+### 구현 예정<br>
+아이템, 캐릭터 등 정보 저장 및 반환
