@@ -17,7 +17,7 @@ public class ScoreService {
 
     @Transactional
     public List<ScoreResponse> scores(){
-        List<Score> scores = scoreRepository.findAll();
+        List<Score> scores = scoreRepository.findAllOrderByScoreDesc();
         List<ScoreResponse> responses = scores.stream().map(m -> new ScoreResponse(m.getUsername(), m.getScore()))
                 .collect(Collectors.toList());
         return responses;
