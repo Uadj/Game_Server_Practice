@@ -3,9 +3,9 @@
 클라이언트 단
 https://github.com/Uadj/Unity_client_for_server
 
-### 현재 구현<br>
+### 현재 구현 중<br>
 
-REST API로 랭킹 구현<br>
+#### REST API로 랭킹 구현<br>
 /download로 요청시 json 데이터 리스트를 반환 <br>
 /upload로 리퀘스트 시 DB에 데이터 저장<br>
 
