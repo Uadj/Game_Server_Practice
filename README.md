@@ -1,4 +1,4 @@
-# Spring boot 여러가지 기본 게임 서버 기능들을 테스트 중<br>
+# Spring boot 여러가지 기본 게임 서버 기능들을 테스트<br>
 
 클라이언트 단
 https://github.com/Uadj/Unity_client_for_server
